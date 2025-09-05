@@ -1,4 +1,4 @@
-export default function Usuarios() {
+export default function Configuracoes() {
   return (
     <div className="p-6 flex-1 bg-gray-100">
       <h1 className="text-2xl font-bold">Configurações</h1>
